@@ -1,0 +1,10 @@
+criaCartao("Agronomia", "O que é adubação verde?", "Uso de plantas para enriquecer o solo com nutrientes.");
+criaCartao("Agronomia", "O que é análise de solo?", "Estudo da composição do solo para manejo adequado.");
+criaCartao("Agronomia", "Para que serve o calcário?", "Corrigir a acidez do solo.");
+criaCartao("Agronomia", "O que é rotação de culturas?", "Alternância de espécies no plantio para melhorar o solo.");
+criaCartao("Agronomia", "Qual a função do fósforo no solo?", "Estimular o crescimento das raízes.");
+criaCartao("Agronomia", "O que são pragas agrícolas?", "Insetos ou organismos que prejudicam as plantações.");
+criaCartao("Agronomia", "Qual a importância da irrigação?", "Garantir água suficiente para o desenvolvimento das plantas.");
+criaCartao("Agronomia", "O que é cultivo orgânico?", "Plantio sem agrotóxicos ou fertilizantes sintéticos.");
+criaCartao("Agronomia", "O que é compostagem?", "Transformar resíduos orgânicos em adubo.");
+criaCartao("Agronomia", "O que é manejo sustentável?", "Uso racional dos recursos naturais para preservar o ambiente.");
